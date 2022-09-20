@@ -1,0 +1,2 @@
+git init - to initialize a new git project with
+
